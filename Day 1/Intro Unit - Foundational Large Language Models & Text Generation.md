@@ -39,7 +39,7 @@
 - Encoder
 - Decoder
 
-![[Transformer.png]]
+![](Screenshots/Transformer.png)
 ### Input Preparation:
 
 1. **Normalization (Optional):** Standardizes text by removing redundant whitespace,
@@ -147,7 +147,7 @@ Breakdown and flow:
 	- This combines the outputs of the experts, weighted by the probabilities from the gating network, to produce the final prediction. 
 	- A common approach is a weighted average.
 
-![[MoE.png]]
+![](Screenshots/MoE.png)
 # Evolution of Transformers
 
 1. GPT1:
@@ -264,7 +264,7 @@ Breakdown and flow:
 
 ## Comparison Table:
 
-![[Comparison Table.png]]
+![](Screenshots/Comparison%20Table.png)
 
 # Fine-tuning Large Language Models
 
@@ -291,8 +291,7 @@ SFT involves training an LLM on a set of task-specific demonstration datasets wh
 - Remove the need for training RLHF by leveraging approaches such as **direct preference optimization (DPO).**
 
 
-![[RLHF.png]]
-
+![](Screenshots/RLHF.png)
 
 ## Parameter Efficient Fine-Tuning (PEFT)
 
