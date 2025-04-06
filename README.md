@@ -22,14 +22,17 @@ Each day's folder contains:
 - Jupyter Notebooks of Kaggle code labs
 
 ## :books: Topics Covered
-- Prompt Engineering Techniques and Frameworks
+- Prompt Engineering Techniques and Frameworks (ReAct)
+- Embeddings and Vector Stores
 - LLMs Evaluation
 - Retrieval-Augmented Generation (RAG)
 - Chatbots
+- Agents
 - Model Fine-tuning
 - Google Search Grounding
+- GenAI and LLMs in Cybersecurity (SecLM) and Healthcare (Med-PaLM)
 - Multimodal Capabilities of the Google Gemini API
-
+- MLOps
 
 ## :computer: Technologies Used
 - Python
