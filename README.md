@@ -43,8 +43,8 @@ Each day's folder contains:
 ---
 >Note: All content is licensed under the Apache-2.0 license, in accordance with the original license of the included notebooks.
 >
->Link to Kaggle Course: https://www.kaggle.com/learn-guide/5-day-genai
+>Link to Kaggle Course: [Course](https://www.kaggle.com/learn-guide/5-day-genai)
 >
->Link to Livestreams: https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5
+>Link to Livestreams: [Livestreams Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5)
 >
->Link to whitepaper companion podcasts: https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE
+>Link to whitepaper companion podcasts: [Podcasts Playlist](https://www.youtube.com/playlist?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
